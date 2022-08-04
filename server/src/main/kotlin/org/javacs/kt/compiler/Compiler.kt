@@ -398,6 +398,7 @@ private class CompilationEnvironment(
         "13" -> JvmTarget.JVM_13
         "14" -> JvmTarget.JVM_14
         "15" -> JvmTarget.JVM_15
+        "17" -> JvmTarget.JVM_17
         else -> null
     }
 
